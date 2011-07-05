@@ -22,10 +22,14 @@ Run the vendors script::
 Using submodules
 ~~~~~~~~~~~~~~~~
 
+::
+
     $ git submodule add http://github.com/egeloen/IvoryJQueryBundle.git vendor/bundles/Ivory/JQueryBundle
 
 Add the Ivory namespace to your autoloader
 ------------------------------------------
+
+::
 
     // app/autoload.php
     $loader->registerNamespaces(array(
@@ -35,6 +39,8 @@ Add the Ivory namespace to your autoloader
 
 Add the JQueryBundle to your application kernel
 -----------------------------------------------
+
+::
 
     // app/AppKernel.php
     public function registerBundles()
