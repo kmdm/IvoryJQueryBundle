@@ -58,7 +58,7 @@ Run the symfony command::
 
     ./app/console assets:install web
 
-Utilization
-===========
+Usage
+=====
 
-    Use assetic like describe in this [page](http://symfony.com/doc/current/book/templating.html#including-stylesheets-and-javascripts-in-twig).
+    See : http://symfony.com/doc/current/book/templating.html#including-stylesheets-and-javascripts-in-twig
