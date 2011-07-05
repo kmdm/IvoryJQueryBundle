@@ -61,4 +61,4 @@ Run the symfony command::
 Usage
 =====
 
-    See : http://symfony.com/doc/current/book/templating.html#including-stylesheets-and-javascripts-in-twig
+See : http://symfony.com/doc/current/book/templating.html#including-stylesheets-and-javascripts-in-twig
