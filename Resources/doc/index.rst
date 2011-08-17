@@ -113,3 +113,8 @@ For understanding whhat minimify is, please read this article first : http://sym
     {% stylesheets "@IvoryJQueryBundle/Resources/public/themes/black-tie/*" filter="yui_css" %}
         <link rel="stylesheet" type="text/css" media="screen" href="{{ asset_url }}" />
     {% endstylesheets %}
+
+Demonstration
+~~~~~~~~~~~~~
+
+Gist : https://gist.github.com/1151062
